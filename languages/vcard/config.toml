@@ -1,0 +1,3 @@
+name = "iCal"
+grammar = "ical"
+path_suffixes = ["ics"]
